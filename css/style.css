@@ -80,6 +80,7 @@ button {
     line-height: 1.7;
     letter-spacing: 0.03em;
     color: var(--color-white-transperent);
+    padding-bottom: 12px;
 }
 
 .street {
@@ -283,7 +284,8 @@ padding: 200px 10px;
   border: 1px solid var(--color-whisper);
   height: 38px;
   border-radius: 4px;
-
+  padding: 0 22px;
+ margin-right: 8ox;
 }
 
 .filter-button:hover {
@@ -310,7 +312,7 @@ padding: 200px 10px;
 }
 
 .filter-item:not(:last-child) {
-  margin-right: 30px;
+  margin-right: 8px;
 }
 
 .filter-item {
