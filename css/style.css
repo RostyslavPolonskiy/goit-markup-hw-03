@@ -73,7 +73,7 @@ button {
 
 .logo.footer-logo {
   color: var(--color-white);
-  padding-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 .address-link {
