@@ -80,8 +80,10 @@ button {
     line-height: 1.7;
     letter-spacing: 0.03em;
     color: var(--color-white-transperent);
-    padding-bottom: 12px;
 }
+ .address-item:not(:last-child) {
+    margin-bottom: 9px;
+ }
 
 .street {
     color: var(--color-white);
